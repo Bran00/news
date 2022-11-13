@@ -1,0 +1,36 @@
+body {
+  background: hsla(250, 65%, 55%, 1);
+  font: normal 15pt arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.363);
+}
+
+div {
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  border-radius: 10px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
